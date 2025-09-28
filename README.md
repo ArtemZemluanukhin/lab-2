@@ -27,10 +27,10 @@
 9. **Конец**
 
 ### Блок-схема
-<img width="336" height="753" alt="схема" src="https://github.com/user-attachments/assets/7dcffb7c-3b35-44d7-9705-02fa7865b1f6" />
+
  
 
-(https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&dark=auto#G1Y4qQVlIzEEcNhIneTcapxSno3EaIHi_p)
+https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&dark=auto#G1DJvH1Zu6Ra-XQI3D8rFwb8Yju631K9oK
 
 
 ## 2. Реализация программы
