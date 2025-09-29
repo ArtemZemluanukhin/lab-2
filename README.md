@@ -28,7 +28,8 @@
 
 ### Блок-схема
 
- 
+ <img width="336" height="753" alt="788 drawio" src="https://github.com/user-attachments/assets/b2ebbeaf-a1ab-473c-b58b-cbd157f088f2" />
+
 
 https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&dark=auto#G1DJvH1Zu6Ra-XQI3D8rFwb8Yju631K9oK
 
