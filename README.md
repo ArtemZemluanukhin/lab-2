@@ -38,32 +38,31 @@ https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank
       #include <locale.h>
 
       int main() {
-                   // Объявление и инициализация констант
-                   const int DAILY_VOLUME = 4;     // литров в день
+                   
+                   const int DAILY_VOLUME = 4;     
                    const int DAYS_IN_MARCH = 31;
                    const int DAYS_IN_APRIL = 30;
 
-                   // Шаг 1: Задание конкретных значений переменных
-                   float x = 50.0;  // Цена за литр в марте (руб.)
-                   float a = 5.0;   // На сколько увеличивается цена (руб.)
+                   float x = 50.0;  
+                   float a = 5.0;   
 
 
                    setlocale(LC_CTYPE, "");
 
-                   // Шаг 2: Расчет стоимости молока в марте
+                   
                    float price_march = x;
                    float total_march = DAILY_VOLUME * DAYS_IN_MARCH * price_march;
 
-                   // Шаг 3: Расчет новой цены и стоимости в апреле
-                   float price_april = x + (x + a); // Новая цена с 1 апреля
+                  
+                   float price_april = x + (x + a); 
                    float total_april = DAILY_VOLUME * DAYS_IN_APRIL * price_april;
 
-                   // Шаг 4: Расчет общей суммы к оплате
+                  
                    float total_to_pay = total_march + total_april;
 
-                   // Шаг 5: Форматированный вывод результатов
+                   
                    printf("РАСЧЕТ СТОИМОСТИ ДОСТАВКИ МОЛОКА\n");
-                   printf("================================\n\n");
+                   printf("---------------------------------\n\n");
                    printf("УСЛОВИЯ:\n");
                    printf("- Ежедневный объем доставки: %d литра.\n", DAILY_VOLUME);
                    printf("- Цена за литр в марте: %.2f руб.\n", price_march);
