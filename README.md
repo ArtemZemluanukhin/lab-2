@@ -22,12 +22,11 @@
 
 ### Блок-схема
 
- <img width="161" height="393" alt="4590 drawio" src="https://github.com/user-attachments/assets/4152f84b-2213-481f-83f8-b8dcdfb9c5b7" />
+ <img width="161" height="483" alt="45700 drawio" src="https://github.com/user-attachments/assets/c1bf33be-3dc9-43ef-84d3-a096f855c461" />
 
 
 
 https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&dark=auto#G11fqPC2YLBFf_CC1X8ssFpDWqE46H2RA4
-
 ## 2. Реализация программы
       #include <stdio.h>
       #include <locale.h>
